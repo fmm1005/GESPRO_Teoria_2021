@@ -4,10 +4,10 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 Para completar el trabajo de estudio en grupo en las sesiones de teoría, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositiorio.
 
 **Integrantes del grupo:**
-Francisco Medel Molinero
-Irene Ruiz Juez
-Adolfo Jesús Viñe Ghezzi
-Pablo Simón Sainz
-Alex Tomé Aguiar
-Carlos Manso Díez
-Alvaro López Pereda
+* [xlp1004](https://github.com/xlp1004) - Alvaro López Pereda
+* [cmd1002](https://github.com/cmd1002) - Carlos Manso Díez
+* [fmm1005](https://github.com/fmm1005) - Francisco Medel Molinero
+* [irj1001](https://github.com/irj1001) - Irene Ruiz Juez
+* [pss1004](https://github.com/pss1004) - Pablo Simón Sainz
+* [ata1005](https://github.com/ata1005) - Alex Tomé Aguiar
+* [avg1009](https://github.com/avg1009) - Adolfo Jesús Viñe Ghezzi
