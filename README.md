@@ -8,6 +8,6 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 * [cmd1002](https://github.com/cmd1002) - Carlos Manso Díez
 * [fmm1005](https://github.com/fmm1005) - Francisco Medel Molinero
 * [irj1001](https://github.com/irj1001) - Irene Ruiz Juez
-* [pss1004](https://github.com/pss1004) - Pablo Simón Sainz
+* [pss1005](https://github.com/pss1005) - Pablo Simón Sainz
 * [ata1005](https://github.com/ata1005) - Alex Tomé Aguiar
 * [avg1009](https://github.com/avg1009) - Adolfo Jesús Viñe Ghezzi
